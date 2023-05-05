@@ -15,4 +15,8 @@ And the next numbers should be like: 2000, 2300, 2311, they called Type
 #
 Next 3 numbers are SCID or Security Cloud Indentificator, and 2 last numbers are SCID Repeat[how much does SCID repeated like 1234-2000-291-00, 0101-2000-291-01]
 # How to see more about ID?
-Inside of descriptions there are 
+Inside of Commit there are 
+IDM[indentificator marker] = ID
+Type: 2000[published, made by developer]
+SCID[Security Cloud Indentificator] = SCID
+SCID Repeat = 00
