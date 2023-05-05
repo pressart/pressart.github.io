@@ -8,6 +8,7 @@ There's an Issue called Create, click this Issue, and then you can type message 
 They registers the site and they have a meaning.
 First 4 numbers are "ID markers"
 And the next numbers should be like: 2000, 2300, 2311
+#
 2000 - Published playground made my developers
 2300 - Non-Published playgrounds
 2311 - Published playgrounds
