@@ -7,8 +7,12 @@ There's an Issue called Create, click this Issue, and then you can type message 
 # Why does (Indentificator) exist in playgrounds?
 They registers the site and they have a meaning.
 First 4 numbers are "ID markers"
-And the next numbers should be like: 2000, 2300, 2311
+And the next numbers should be like: 2000, 2300, 2311, they called Type
 #
 2000 - Published playground made my developers
 2300 - Non-Published playgrounds
 2311 - Published playgrounds
+#
+Next 3 numbers are SCID or Security Cloud Indentificator, and 2 last numbers are SCID Repeat[how much does SCID repeated like 1234-2000-291-00, 0101-2000-291-01]
+# How to see more about ID?
+Inside of descriptions there are 
